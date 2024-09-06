@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Illés Milán 11.B\csharp\1\Csharp_first\bin\Debug\net8.0\Csharp_first.exe
+C:\Users\User\Documents\Illés Milán 11.B\csharp\1\Csharp_first\bin\Debug\net8.0\Csharp_first.deps.json
+C:\Users\User\Documents\Illés Milán 11.B\csharp\1\Csharp_first\bin\Debug\net8.0\Csharp_first.runtimeconfig.json
+C:\Users\User\Documents\Illés Milán 11.B\csharp\1\Csharp_first\bin\Debug\net8.0\Csharp_first.dll
+C:\Users\User\Documents\Illés Milán 11.B\csharp\1\Csharp_first\bin\Debug\net8.0\Csharp_first.pdb
+C:\Users\User\Documents\Illés Milán 11.B\csharp\1\Csharp_first\obj\Debug\net8.0\Csharp_first.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Illés Milán 11.B\csharp\1\Csharp_first\obj\Debug\net8.0\Csharp_first.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Illés Milán 11.B\csharp\1\Csharp_first\obj\Debug\net8.0\Csharp_first.AssemblyInfo.cs
+C:\Users\User\Documents\Illés Milán 11.B\csharp\1\Csharp_first\obj\Debug\net8.0\Csharp_first.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Illés Milán 11.B\csharp\1\Csharp_first\obj\Debug\net8.0\Csharp_first.sourcelink.json
+C:\Users\User\Documents\Illés Milán 11.B\csharp\1\Csharp_first\obj\Debug\net8.0\Csharp_first.dll
+C:\Users\User\Documents\Illés Milán 11.B\csharp\1\Csharp_first\obj\Debug\net8.0\refint\Csharp_first.dll
+C:\Users\User\Documents\Illés Milán 11.B\csharp\1\Csharp_first\obj\Debug\net8.0\Csharp_first.pdb
+C:\Users\User\Documents\Illés Milán 11.B\csharp\1\Csharp_first\obj\Debug\net8.0\Csharp_first.genruntimeconfig.cache
+C:\Users\User\Documents\Illés Milán 11.B\csharp\1\Csharp_first\obj\Debug\net8.0\ref\Csharp_first.dll
